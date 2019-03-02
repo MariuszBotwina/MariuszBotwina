@@ -124,7 +124,8 @@ public class Main {
         double delta;
         delta = b * b - 4 * a * c;
         return delta;
-    }
+    
+       /*komentarz
 }
 
   /*  void f_rek (int x)
