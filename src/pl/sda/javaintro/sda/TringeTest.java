@@ -1,3 +1,5 @@
+package pl.sda.javaintro.sda;
+
 public class TringeTest {
     public static void main(String[] args) {
          Triangle triangle = new Triangle();

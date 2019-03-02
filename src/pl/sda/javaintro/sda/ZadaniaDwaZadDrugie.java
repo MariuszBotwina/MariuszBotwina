@@ -1,3 +1,5 @@
+package pl.sda.javaintro.sda;
+
 import java.util.Scanner;
 
 public class ZadaniaDwaZadDrugie {

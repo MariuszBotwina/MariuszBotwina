@@ -1,3 +1,5 @@
+package pl.sda.javaintro.sda;
+
 public class Car {
     private String brand;
     private String color;

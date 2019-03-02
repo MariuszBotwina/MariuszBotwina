@@ -1,4 +1,4 @@
-package com.company;
+/*package com.company;
 
 import java.sql.SQLOutput;
 
@@ -6,7 +6,7 @@ public class Main {
     /**
      * moja pierwsza lekcja
      */
-    public static void main(String[] args) {
+  /*  public static void main(String[] args) {
         System.out.println("HelloWorld");
         System.out.println("Mariusz Botwina");
         // To jest moje imie oraz nazwiko
@@ -18,7 +18,7 @@ public class Main {
         b) Imie
         c) Nazwisko
          */
-        int liczba1 = 58;
+    /*    int liczba1 = 58;
         double liczba2 = 198273;
         double liczba3 = liczba1 + liczba2;
 
@@ -36,7 +36,7 @@ public class Main {
         /* operatory bitowe
         101101 = 2 ^ 5 + 2 ^3 + 2 ^ 2 + 1 = 32  + 8 + 4 + 1 = 45
          */
-        System.out.println(45 & 23);
+      /*  System.out.println(45 & 23);
         int g = 7,
                 h = 0,
                 j = 15;
@@ -59,7 +59,7 @@ public class Main {
         String czyparzysta = numberTwo % 2 == 0 ? "parzysta" : "nieparzysta";
         System.out.println(czyparzysta);
 
-        int n = 100;
+        /*int n = 100;
         for (int i = 0; i < n; i++) //tutaj-c
         {
             //i++ - inkrementacja
@@ -77,33 +77,33 @@ public class Main {
             /*
             ... MEGA SUPER DUŻO LOGIKI ...
              */
-            System.out.println("TEGO TUTAJ NIE MA");
+           // System.out.println("TEGO TUTAJ NIE MA");
 
-            int int_g = 0;
-            String string_g = "";
+            //int int_g = 0;
+          //  String string_g = "";
 
             /*
             if (i>50)
                 break;
             //stąd-b
             */
-        }//tutaj-b
+        //}//tutaj-b
 
 
-        int i = 0;
+        //int i = 0;
         //while
-        while (i % 2 == 0) {
+        //while (i % 2 == 0) {
             //    System.out.println(i);
-            i++;
-        }
+         //   i++;
+        //}
 
         //do-while
         //int i=0
-        do {
+       // do {
             //System.out.println(i);
-            i++;
-        }
-        while (i % 2 == 0);
+         //   i++;
+        //}
+        //while (i % 2 == 0);
         //
 
        // System.out.println(f_obliczdelta(2, 15, 10));
@@ -114,16 +114,16 @@ public class Main {
 
        // System.out.println(f_obliczdelta(2, 115, 10));
 
-    }
 
-    int f_dodaj(int a, int b) {
+
+   /*int f_dodaj(int a, int b) {
         return a + b;
     }
 
     double f_obliczdelta(double a, double b, double c) {
         double delta;
         delta = b * b - 4 * a * c;
-        return delta;
+      return delta;
     
        /*komentarz
 }

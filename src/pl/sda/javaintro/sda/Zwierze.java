@@ -1,3 +1,5 @@
+package pl.sda.javaintro.sda;
+
 public class Zwierze {
     private String gatunek;
     private String rodzajZeWzgleduNaJedzenie;

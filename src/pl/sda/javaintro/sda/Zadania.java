@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+package pl.sda.javaintro.sda;
 
 public class Zadania {
     public static void main(String[] args) {
