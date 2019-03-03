@@ -1,4 +1,6 @@
-package pl.sda.javaintro.sda;
+package pl.sda.javaintro.sda.tworzenieObiektow;
+
+import pl.sda.javaintro.sda.tworzenieObiektow.Person;
 
 public class RodzinaKowalskich {
     public static void main(String[] args) {
@@ -9,7 +11,6 @@ public class RodzinaKowalskich {
 
 
     }
-
 
 }
 

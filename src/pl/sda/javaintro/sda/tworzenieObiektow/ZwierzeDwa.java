@@ -1,4 +1,6 @@
-package pl.sda.javaintro.sda;
+package pl.sda.javaintro.sda.tworzenieObiektow;
+
+import pl.sda.javaintro.sda.tworzenieObiektow.Zwierze;
 
 public class ZwierzeDwa {
     public static void main(String[] args) {

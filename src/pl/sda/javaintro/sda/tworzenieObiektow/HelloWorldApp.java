@@ -1,4 +1,6 @@
-package pl.sda.javaintro.sda;
+package pl.sda.javaintro.sda.tworzenieObiektow;
+
+import pl.sda.javaintro.sda.tworzenieObiektow.Car;
 
 public class HelloWorldApp {
     public static void main(String[] args) {

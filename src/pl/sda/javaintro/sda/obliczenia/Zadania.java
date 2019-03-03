@@ -1,4 +1,4 @@
-package pl.sda.javaintro.sda;
+package pl.sda.javaintro.sda.obliczenia;
 
 public class Zadania {
     public static void main(String[] args) {

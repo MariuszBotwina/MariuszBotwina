@@ -1,4 +1,4 @@
-package pl.sda.javaintro.sda;
+package pl.sda.javaintro.sda.tworzenieObiektow;
 
 public class Triangle {
 
